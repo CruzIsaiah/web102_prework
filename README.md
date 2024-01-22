@@ -20,6 +20,7 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![PreWorkSeaMonster](https://github.com/codepath/web102_prework/assets/137027699/44e87afd-5af2-4787-9473-45b1724f5826)
 
 Here's a walkthrough of implemented features:
 
